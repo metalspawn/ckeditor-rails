@@ -3,6 +3,7 @@ module Ckeditor
     class Railtie < ::Rails::Railtie
       initializer 'ckeditor.assets.precompile', group: :all do |app|
         app.config.assets.precompile += %W(
+          ckeditor-jquery.js
           ckeditor/*.js
           ckeditor/*.css
           ckeditor/*.png
