@@ -1,7 +1,7 @@
 Software License Agreement
 ==========================
 
-**CKEditor WSC Plugin**
+**CKEditor SCAYT Plugin**
 Copyright &copy; 2012, [CKSource](http://cksource.com) - Frederico Knabben. All rights reserved.
 
 Licensed under the terms of any of the following licenses at your choice:
